@@ -4,3 +4,13 @@ body {
   
   font-family: 'Literata', Arial;
 }
+
+h1 {
+  font-family: 'Literata';
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Literata';
+  font-weight: 400;
+}
